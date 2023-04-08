@@ -1,0 +1,4 @@
+{
+    "liveSever.setting.useLOcalIP": true,
+    "liveServer.settings.CustomBrowser": "chrome"
+}
